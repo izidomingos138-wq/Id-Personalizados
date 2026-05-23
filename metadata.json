@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Painel Administrativo ID Personalizados",
+  "description": "Painel de controle para gestão de produtos, pedidos e relatórios de presentes e materiais personalizados",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
